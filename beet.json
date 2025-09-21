@@ -1,0 +1,23 @@
+{
+	"id": "topy",
+  "name": "Beet Project",
+  "description": "Learning beet!",
+
+  "data_pack": {
+    "load": ["src"]
+  },
+	"require": [
+		"bolt"
+	],
+	"pipeline": [
+		"mecha",
+		"pipeline.function_headers"
+	],
+	"meta": {
+		"bolt": {
+			"entrypoint": "topy:main"
+		}
+	},
+
+  "output": "build"
+}

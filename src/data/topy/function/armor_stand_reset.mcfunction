@@ -1,0 +1,1 @@
+data merge entity @e[type=minecraft:armor_stand,sort=nearest,limit=1] {ShowArms:1,NoBasePlate:1,Invulnerable:1,DisabledSlots:16191,Pose:{Head:[0f,0f,0f],Body:[0f,0f,0f],LeftArm:[0f,0f,0f],RightArm:[0f,0f,0f],LeftLeg:[0f,0f,0f],RightLeg:[0f,0f,0f]}}
