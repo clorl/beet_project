@@ -1,0 +1,3 @@
+summon block_display ~ ~ ~ {block_state:{Name:"minecraft:oak_log"},transformation:{translation:[0.0f,5.97f,2.6f],right_rotation:[0.92f,0.0f,-0.4f,0.0f],left_rotation:[1f,0f,0f,0f],scale:[1.0f,1.0f,1.0f]}}
+summon block_display ~ ~ ~ {block_state:{Name:"minecraft:cobblestone"},transformation:{translation:[-1.02f,0.56f,0.62f],right_rotation:[0.57f,0.13f,-0.81f,-0.03f],left_rotation:[1f,0f,0f,0f],scale:[5.3f,9.9f,15.9f]}}
+summon block_display ~ ~ ~ {block_state:{Name:"minecraft:iron_block"},transformation:{translation:[0.85f,1.31f,0.96f],right_rotation:[0.97f,0.0f,0.25f,0.01f],left_rotation:[1f,0f,0f,0f],scale:[0.13f,1.11f,0.25f]}}
